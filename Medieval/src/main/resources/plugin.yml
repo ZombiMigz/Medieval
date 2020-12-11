@@ -1,0 +1,11 @@
+main: org.whitemist.medieval.Main
+name: Medieval
+author: ZombiMigz
+version: 1.0.0
+description: Created by ZombiMigz for the Whitemist Medieval Server
+
+api-version: 1.16
+
+commands:
+  map:
+    description: sends the user the link to the map (in chat)
